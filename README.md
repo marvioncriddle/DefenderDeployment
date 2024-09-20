@@ -19,11 +19,11 @@
 
 ## Implementation
 - **Steps Taken**:
-1. Generated a deployment script using the MDE portal, selecting configurations that fit our environment.
-2. Enrolled in MDE's EDR Exclusion feature, allowing the team to create exclusion policies with BigFix and other teams, maintaining a separation of duties.
-3. Deployed MDE while ensuring it operated in passive mode to prevent conflicts.
-4. Established exclusion policies to mitigate conflicting scanning issues that initially caused performance bottlenecks.
-5. Observed performance issues during rollout, particularly with the deployment of Tanium for device management, necessitating further analysis.  
+  1. Generated a deployment script using the MDE portal, selecting configurations that fit our environment.
+  2. Enrolled in MDE's EDR Exclusion feature, allowing the team to create exclusion policies with BigFix and other teams, maintaining a separation of duties.
+  3. Deployed MDE while ensuring it operated in passive mode to prevent conflicts.
+  4. Established exclusion policies to mitigate conflicting scanning issues that initially caused performance bottlenecks.
+  5. Observed performance issues during rollout, particularly with the deployment of Tanium for device management, necessitating further analysis.  
 
 - **Challenges Faced**:  Discovered that MDE required careful management alongside other security solutions to avoid performance impacts.  
 
