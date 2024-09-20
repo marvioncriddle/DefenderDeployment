@@ -7,6 +7,8 @@
 - **Timeframe**:  Six months
 - **Objective**:  Successfully deploy Microsoft Defender for Endpoint (MDE) as a prerequisite for implementing Microsoft Purview Data Loss Prevention (DLP).  
 </br>
+</br>
+
 
 ## Background
 - **Context**:  As part of the Security Engineering and Architecture Team within the Information Security Office (ISO), we aimed to enhance our security posture through effective DLP solutions.  
