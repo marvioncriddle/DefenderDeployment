@@ -7,6 +7,7 @@
 - **Objective**:  Successfully deploy Microsoft Defender for Endpoint (MDE) as a prerequisite for implementing Microsoft Purview Data Loss Prevention (DLP).  
 </br>
 </br>
+</br>
 
 
 ## Background
