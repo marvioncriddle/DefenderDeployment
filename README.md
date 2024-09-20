@@ -1,6 +1,6 @@
 # Case Study:  Defender for Endpoint Deployment
 
-[<img align="left" alt="Portfolio Logo" width="50px" src="https://emsroute.com/wp-content/uploads/2022/01/defendelogo.png" />]
+<img align="left" alt="Portfolio Logo" width="100px" src="https://emsroute.com/wp-content/uploads/2022/01/defendelogo.png" style="margin-right: 10px;" />
 
 ## Overview
 - **Position**:  Information Security Analyst, Subject Matter Expert (SME)
