@@ -2,10 +2,11 @@
 
 <img align="left" alt="Portfolio Logo" width="400px" src="https://emsroute.com/wp-content/uploads/2022/01/defendelogo.png" style="margin-right: 10px;" />
 
-## Overview
+<h2>Overview</h2>
 - **Position**:  Information Security Analyst, Subject Matter Expert (SME)
 - **Timeframe**:  Six months
 - **Objective**:  Successfully deploy Microsoft Defender for Endpoint (MDE) as a prerequisite for implementing Microsoft Purview Data Loss Prevention (DLP).  
+</br>
 
 ## Background
 - **Context**:  As part of the Security Engineering and Architecture Team within the Information Security Office (ISO), we aimed to enhance our security posture through effective DLP solutions.  
