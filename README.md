@@ -25,7 +25,7 @@
 4. Established exclusion policies to mitigate conflicting scanning issues that initially caused performance bottlenecks.
 5. Observed performance issues during rollout, particularly with the deployment of Tanium for device management, necessitating further analysis.  
 
-- **Challenges Faced**:  Discovered that MDE required careful management alongside other security solutions to avoid performance impacts.  
+**Challenges Faced**:  Discovered that MDE required careful management alongside other security solutions to avoid performance impacts.  
 
 ## Results
 - **Outcomes**:  Successfully deployed MDE alongside existing security tools, leveraging vulnerability data to enhance security posture.  
