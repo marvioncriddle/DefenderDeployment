@@ -2,6 +2,9 @@
 
 <img align="left" alt="Portfolio Logo" width="400px" src="https://emsroute.com/wp-content/uploads/2022/01/defendelogo.png" />
 </br>
+</br>
+</br>
+</br>
 
 ## Overview
 - **Position**:  Information Security Analyst, Subject Matter Expert (SME)
