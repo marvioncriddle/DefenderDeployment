@@ -24,7 +24,7 @@
 ## Approach
 - **Research and Analysis**:  Conducted thorough research using Microsoft Learn to familiarize ourselves with MDE functionalities and requirements.  
 - **Methodology**:  Collaborated with desktop support teams to formulate a comprehensive deployment plan for MDE.  
-- **Tools and Technologies**:  Utilized Microsoft Defender for Endpoint, BigFix for deployment, PowerShell scripts for testing and deployment, and MDE Dashboards and KQL for analysis.  
+- **Tools and Technologies**:  Utilized Microsoft Defender for Endpoint, BigFix for deployment, MDE and CrowdStrike for EDR Exclusion policies, PowerShell scripts for testing and deployment, and MDE Dashboards and KQL for analysis.  
 
 ## Implementation
 **Steps Taken**:
