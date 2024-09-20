@@ -38,3 +38,10 @@
 
 ## Conclusion
 - The deployment of Microsoft Defender for Endpoint not only fulfilled the prerequisite for Microsoft Purview DLP but also provided additional insights to bolster the organization's overall security posture.  
+
+### References
+- [Set up Microsoft Defender for Endpoint deployment](https://learn.microsoft.com/en-us/defender-endpoint/production-deployment)
+- [Microsoft Defender Antivirus compatibility with other security products](https://learn.microsoft.com/en-us/defender-endpoint/microsoft-defender-antivirus-compatibility)
+- [Reference: Endpoint security exclusions](https://help.tanium.com/bundle/ug_client_cloud/page/client/security_exclusions.html)
+- [Exclusions overview](https://learn.microsoft.com/en-us/defender-endpoint/navigate-defender-endpoint-antivirus-exclusions)
+- [Get started with endpoint data loss prevention](https://learn.microsoft.com/en-us/purview/endpoint-dlp-getting-started)
