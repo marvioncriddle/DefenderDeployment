@@ -1,7 +1,7 @@
 # Case Study:  Defender for Endpoint Deployment
 
 ## Overview
-- **Position**:  Subject Matter Expert (SME), Information Security Analyst  
+- **Position**:  Information Security Analyst, Subject Matter Expert (SME)
 - **Timeframe**:  Six months
 - **Objective**:  Successfully deploy Microsoft Defender for Endpoint (MDE) as a prerequisite for implementing Microsoft Purview Data Loss Prevention (DLP).  
 
