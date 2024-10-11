@@ -16,23 +16,23 @@
 
 ## Background
 - **Context**:  As part of the Security Engineering and Architecture Team within the Information Security Office (ISO), we aimed to enhance our security posture through effective DLP solutions.  
-- **Stakeholders**:  Involved directors, the Chief Information Security Officer (CISO), Chief Technology Officer (CTO), and desktop support teams.  
+- **Stakeholders**:  Involved directors, the Chief Information Security Officer (CISO), Chief Technology Officer (CTO), and product support teams. 
 
 ## Problem Statement
 - The organization needed a robust DLP solution, and the existing contract with Symantec DLP was nearing its end.  The decision was made to transition to Microsoft Purview, leveraging our ongoing Microsoft contract for better support and pricing.  
 
 ## Approach
-- **Research and Analysis**:  Conducted thorough research using Microsoft Learn to familiarize ourselves with MDE functionalities and requirements.  
-- **Methodology**:  Collaborated with desktop support teams to formulate a comprehensive deployment plan for MDE.  
+- **Research and Analysis**:  Conducted thorough research using Microsoft Learn and completed various trainings to become familiar with MDE functionalities and requirements.
+- **Methodology**:  Collaborated with product support teams to formulate a comprehensive deployment plan for MDE.
 - **Tools and Technologies**:  Utilized Microsoft Defender for Endpoint, BigFix for deployment, MDE and CrowdStrike for EDR Exclusion policies, PowerShell scripts for testing and deployment, and MDE Dashboards and KQL for analysis.  
 
 ## Implementation
 **Steps Taken**:
-1. Generated a deployment script using the MDE portal, selecting configurations that fit our environment.
-2. Enrolled in MDE's EDR Exclusion feature, allowing the team to create exclusion policies with BigFix and other teams, maintaining a separation of duties.
-3. Deployed MDE while ensuring it operated in passive mode to prevent conflicts.
-4. Established exclusion policies to mitigate conflicting scanning issues that initially caused performance bottlenecks.
-5. Observed performance issues during rollout, particularly with the deployment of Tanium for device management, necessitating further analysis.  
+1. Created a Group Policy deployment script for Windows 10 & 11 devices and shared it with the product team to push fleet-wide via BigFix.  
+2.	Enrolled in MDE's EDR Exclusion feature, allowing the our team to create EDR exclusion policies to ensure proper implementation.   
+3.	Deployed MDE while ensuring it operated in passive mode to prevent conflicts, keeping CrowdStrike as our primary EDR solution.  
+4.	Observed performance issues on endpoints during rollout, particularly with the simultaneous deployment of Tanium for device management, necessitating further analysis.
+5.	Established exclusion policies to mitigate conflicting scanning issues that initially caused performance bottlenecks.
 
 **Challenges Faced**:  Discovered that MDE required careful management alongside other security solutions to avoid performance impacts.  
 
