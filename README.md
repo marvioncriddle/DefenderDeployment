@@ -16,7 +16,7 @@
 
 ## Background
 - **Context**:  As part of the Security Engineering and Architecture Team within the Information Security Office (ISO), we aimed to enhance our security posture through effective DLP solutions.  
-- **Stakeholders**:  Involved directors, the Chief Information Security Officer (CISO), Chief Technology Officer (CTO), and product support teams. 
+- **Stakeholders**:  Involved directors, Information Security Office, and Product Support teams. 
 
 ## Problem Statement
 - The organization needed a robust DLP solution, and the existing contract with Symantec DLP was nearing its end.  The decision was made to transition to Microsoft Purview, leveraging our ongoing Microsoft contract for better support and pricing.  
