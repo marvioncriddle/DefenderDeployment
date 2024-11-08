@@ -38,14 +38,14 @@
 
 ## Results
 - **Outcomes**:  Successfully deployed MDE alongside existing security tools, leveraging vulnerability data to enhance security posture.  
-- **Impact**:  Created a process to monitor devices for Zscaler installation and initiated a monthly vulnerability report for tracking software updates and configurations.  
+- **Impact**:  Created a process for implementing security policies to ensure continuous improvement in software performance and security.  Created a KQL script to identify devices onboarded to MDE, yet missing a Zscaler installation, gaining visibility of devices that should have the Secure Web Gateway client installed.
 
 ## Lessons Learned
 - Recognized the importance of thorough testing and collaboration among security tools to avoid conflicts.  
 - Gained valuable insights into managing multiple security solutions effectively.  
 
 ## Conclusion
-- The deployment of Microsoft Defender for Endpoint not only fulfilled the prerequisite for Microsoft Purview DLP but also provided additional insights to bolster the organization's overall security posture.  
+- The deployment of Microsoft Defender for Endpoint not only fulfilled the prerequisite for Microsoft Purview DLP but also provided additional insights into device and vulnerability data to bolster the organization's overall security posture.  
 
 ### References
 - [Set up Microsoft Defender for Endpoint deployment](https://learn.microsoft.com/en-us/defender-endpoint/production-deployment)
